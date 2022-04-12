@@ -5,11 +5,11 @@
     smart-contract: solidity, deploy --network ropsten of Alchemy https://dashboard.alchemyapi.io/apps/ssbcngtw7e3492bf
 #...........
 # run project
- git clone 
- cd client
- npm install
- npm run dev
- truy cập localhost:3000
+ #git clone 
+ #cd client
+ #npm install
+ #npm run dev
+ #truy cập localhost:3000
 
 # chức năng chuyển tiền qua lại giữa các ví metamask 
 # save transaction
