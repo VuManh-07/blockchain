@@ -6,10 +6,10 @@
 #...........
 # run project
  git clone git@github.com:VuManh-07/blockchain.git <br/>
- cd client
- npm install
- npm run dev
- truy cập localhost:3000
+ cd client <br/>
+ npm install <br/>
+ npm run dev <br/>
+ truy cập localhost:3000 <br/>
 
 # chức năng chuyển tiền qua lại giữa các ví metamask 
 # save transaction
